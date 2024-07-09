@@ -60,7 +60,3 @@
 
 ## How to Contribute:
 - If you wish to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request for review.
-
----
-
-This README provides a comprehensive guide on setting up the Couchbase connection, defining environment variables, and running the project. It also outlines the project's description, technologies used, usage instructions, and how to contribute. Feel free to reach out for any further assistance or clarification.
